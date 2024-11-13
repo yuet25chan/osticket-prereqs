@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/mF845us" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/9c07eb81-4e49-4aec-9545-e5a49b804e31)
 </p>
 <p>
 Once the Windows 10 virtual machine has been set up in Azure, you can log into the virtual machine by using your credentials. Open the Microsoft Edge web browser on the virtual machine and download the osTicket installation zip file. 
@@ -35,7 +35,8 @@ Once the Windows 10 virtual machine has been set up in Azure, you can log into t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
