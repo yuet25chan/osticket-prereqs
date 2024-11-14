@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
   
-<img src="https://https://imgur.com/a/jX3jzWd.png" alt="Download Installation File"/>
+![Pic1](https://github.com/user-attachments/assets/289c54b8-830f-4b0f-839d-046e4e0e119c)
   
 Once the Windows 10 virtual machine has been set up in Azure, you can log into the virtual machine by using your credentials. Open the Microsoft Edge web browser on the virtual machine and download the osTicket installation zip file. 
 </p>
