@@ -25,16 +25,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL
 
 <h2>Installation Steps</h2>
-
 <p>
-![image](https://github.com/user-attachments/assets/9c07eb81-4e49-4aec-9545-e5a49b804e31)
-</p>
-<p>
+  
+<img src="https://https://imgur.com/a/jX3jzWd.png" alt="Download Installation File"/>
+  
 Once the Windows 10 virtual machine has been set up in Azure, you can log into the virtual machine by using your credentials. Open the Microsoft Edge web browser on the virtual machine and download the osTicket installation zip file. 
 </p>
 <br />
 
-<p>
+
 
   
 </p>
