@@ -24,12 +24,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - HeidiSQL
 
-<h2>Installation Steps</h2>
+<h2> osTicket Installation Steps</h2>
 <p>
 
-![Pic1](https://github.com/user-attachments/assets/289c54b8-830f-4b0f-839d-046e4e0e119c)
-  
+ 1. Download and Extract the osTicket Installation File
 Once the Windows 10 virtual machine has been set up in Azure, you can log into the virtual machine by using your credentials. Open the Microsoft Edge web browser on the virtual machine download the osTicket installation zip file, and unzip it to desktop.
+
+![Pic1](https://github.com/user-attachments/assets/289c54b8-830f-4b0f-839d-046e4e0e119c)
+
+2. Configure the Windows to a IIS Server
 </p>
 <br />
 
