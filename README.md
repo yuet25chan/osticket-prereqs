@@ -37,9 +37,8 @@ Open Control Panel -> Programs -> Turn Windows features on and off.
 ![Programs and Features ](https://github.com/user-attachments/assets/ceb5a698-8b9b-4d7a-9947-2bbfb3aea78b)
 ![Turn Windows Feature on and off](https://github.com/user-attachments/assets/7ac84dd2-cdd7-4eb4-a15f-9153b3ce25ac)
 
-     
- 
-
+Select World Wide Web Services-> Application Development Feature -> Enable CGI
+![CGI](https://github.com/user-attachments/assets/bfe08f43-7292-4308-a588-0a2dffcfdafe)
    
 </p>
 <br />
