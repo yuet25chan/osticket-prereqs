@@ -32,7 +32,14 @@ Once the Windows 10 virtual machine has been set up in Azure, you can log into t
 
 ![Pic1](https://github.com/user-attachments/assets/289c54b8-830f-4b0f-839d-046e4e0e119c)
 
-2. Configure the Windows to a IIS Server
+2. Enable IIS 
+Open Control Panel -> Programs -> Turn Windows features on and off.
+![Programs and Features ](https://github.com/user-attachments/assets/ceb5a698-8b9b-4d7a-9947-2bbfb3aea78b)
+
+     
+ 
+
+   
 </p>
 <br />
 
