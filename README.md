@@ -96,7 +96,7 @@ Double Click PHP Manager
 ![image](https://github.com/user-attachments/assets/736c6b6e-335d-4434-8b53-4f306cdcafba)
 
 ![image](https://github.com/user-attachments/assets/98142a8d-4299-4d59-94e2-199490ac1b16)
-
+Click on Register New PHP
 
 </p>
 <p>
