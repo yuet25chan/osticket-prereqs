@@ -67,10 +67,22 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 
 
 
-Typical Setup ->
+Typical Setup and click on Install
 
-Launch Configuration Wizard (after install) ->
+![image](https://github.com/user-attachments/assets/4617e01c-eb33-483a-bf1b-8e0878b13258)
+
+
+
+Launch Configuration Wizard (after install) 
+![image](https://github.com/user-attachments/assets/827e85e9-ed23-48de-99b9-daf90b4de1bf)
+
+
 Standard Configuration ->
+![image](https://github.com/user-attachments/assets/f6907a29-ab2f-4545-b582-3c1aaacfedd7)
+
+![image](https://github.com/user-attachments/assets/b32ede0c-dc10-4a96-99e7-74a0e565d409)
+
+
 Username: root
 Password: root
 
