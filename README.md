@@ -62,7 +62,13 @@ From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
 
 
 From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+![image](https://github.com/user-attachments/assets/9c580100-d6fd-41c4-9856-422273ca6f6f)
+
+
+
 Typical Setup ->
+
 Launch Configuration Wizard (after install) ->
 Standard Configuration ->
 Username: root
