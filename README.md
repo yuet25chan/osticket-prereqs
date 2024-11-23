@@ -99,6 +99,36 @@ Double Click PHP Manager
 Click on Register New PHP
 ![image](https://github.com/user-attachments/assets/6a095213-54e4-4489-bcc5-59429e3c9a84)
 
+Reload IIS (Open IIS, Stop and Start the server)
+
+Install osTicket v1.15.8
+
+![image](https://github.com/user-attachments/assets/c3434659-a6c1-45ef-8585-45530724f2b9)
+
+
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+![image](https://github.com/user-attachments/assets/39ea68dd-0ae3-4b55-8972-0610496eda1a)
+
+
+
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+![image](https://github.com/user-attachments/assets/b8922bb1-734e-46a3-a5e1-a78b7ce9e626)
+
+![image](https://github.com/user-attachments/assets/745371d9-c86e-4a0e-9e50-51efc171b60e)
+
+Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
+
+![image](https://github.com/user-attachments/assets/eeafb5e3-8a1b-49f8-9d7a-a654a39b14e8)
+
 </p>
 <p>
 
