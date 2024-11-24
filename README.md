@@ -129,6 +129,13 @@ Refresh the osTicket site in your browser, observe the changes
 
 ![image](https://github.com/user-attachments/assets/eeafb5e3-8a1b-49f8-9d7a-a654a39b14e8)
 
+ Double Click ost-config.php and click on Properties. Click on the Securities tab and click on Advanced. 
+Download Heidi
+![image](https://github.com/user-attachments/assets/3452546c-5cfe-400f-bb29-dee95e70b92d)
+
+![image](https://github.com/user-attachments/assets/1852d2da-6f25-4fb5-8b3d-a9f85f445d07)
+
+ 
 </p>
 <p>
 
